@@ -1,0 +1,10 @@
+deepface>=0.0.75
+Flask>=2.0.0
+python-dotenv>=0.19.0
+SQLAlchemy>=1.4.0
+opencv-python>=4.5.0
+numpy>=1.19.3
+Werkzeug>=2.0.0
+tensorflow>=2.0.0
+mtcnn>=0.1.0
+retina-face>=0.0.13
