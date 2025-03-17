@@ -1,6 +1,6 @@
 # Face Recognition API
 
-Sistem Face Recognition API dengan fitur deteksi wajah, pengenalan wajah, dan deteksi ekspresi menggunakan DeepFace.
+Face Recognition API dengan fitur deteksi wajah, pengenalan wajah, deteksi ekspresi, dan manajemen data wajah.
 
 ## Fitur
 
@@ -22,7 +22,7 @@ Sistem Face Recognition API dengan fitur deteksi wajah, pengenalan wajah, dan de
 
 1. Clone repository:
 ```bash
-git clone [url-repository]
+git clone https://github.com/mochammadrafi/face-recognition.git
 cd face-recognition
 ```
 
